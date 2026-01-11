@@ -18,7 +18,7 @@ BFBEAST = ["BEAST"]
 
 [compat]
 BEAST = "2.8.0"
-
+OhMyThreads = "0.8"
 
 [extras]
 Aqua = "4c88cf16-eb10-579e-8560-4a9242c79595"
